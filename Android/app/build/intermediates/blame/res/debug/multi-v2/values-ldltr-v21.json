@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Training\\WorkSpace_Directory\\android\\mobile-app-Location_Integration\\mobile-app-Location_Integration\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HERAM\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\ec905c44a3752f8d2dca4d50fe800cf1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
