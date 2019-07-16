@@ -2,8 +2,11 @@
 Contains CS-795 - Human Computer Interaction (HCI) Final Project 
 
 Technologies : 
+
 Mobile - Android(Java)
+
 Web - PHP
+
 Database - Mysql
 
 Project is a startup idea given by Professor where we can add nearby events and record videos using the mobile device.
